@@ -14,5 +14,5 @@ module.exports = defineConfig({
     }
   },
   outputDir: './docs',
-  publicPath: '/<repository name>/'
+  publicPath: '/github-action-test/'
 })
